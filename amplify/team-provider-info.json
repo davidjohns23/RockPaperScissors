@@ -1,0 +1,14 @@
+{
+    "react": {
+        "awscloudformation": {
+            "AuthRoleName": "rps-20211219160612-authRole",
+            "UnauthRoleArn": "arn:aws:iam::855208204947:role/rps-20211219160612-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::855208204947:role/rps-20211219160612-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "rps-20211219160612-deployment",
+            "UnauthRoleName": "rps-20211219160612-unauthRole",
+            "StackName": "rps-20211219160612",
+            "StackId": "arn:aws:cloudformation:us-east-1:855208204947:stack/rps-20211219160612/7f1c5650-610f-11ec-bf0f-125e3e62c00b"
+        }
+    }
+}
